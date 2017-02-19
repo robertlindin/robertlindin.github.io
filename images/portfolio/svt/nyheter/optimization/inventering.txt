@@ -1,0 +1,35 @@
+Miljöpejl
+väder
+mål- & resultatservice
+Nyhetsämnen
+Optimering av nyheterna
+	- Paket/ämnen
+	- Redaktionell kontroll och dynamik i löp
+	- Typografi/flöde
+	- Tempo
+	- Just nu/Senaste nytt
+	- Högerspalt
+	- Mobilanpassade menyer (standard och regionalt)
+	- Långsamma  nyheter i bottenlådor
+	- Sektioner (sport, kultur, nyheter) även i huvudlöp
+	- Artikel
+	- Ämnesrelaterade nyheter i slider i botten av artikel (swipe)
+	- förbättrad användning av färger
+
+
+	Visa på olika enheter
+	
+
+• Better packaged stories
+• Increased Editor control of pace and dynamics on the news flow
+• Higher tempo in the news flow
+• Increased information density
+• More usable and dynamic use of breaking events like for example: “Right now” or “Live”
+• Rebuilt right column with increased tempo and dynamics
+• Mobile- and touch friendly menus
+• Slow but high quality news repositioned to swipe areas in the bottom of the page
+• Labeling of sections and navigation to sections in the main news flow, increased of menu navigation
+• Rebuilt article with increased options around hierarchy and associated media
+• News related to the Story of the article placed in a swipe box in the bottom of the article
+• Improved use of colors
+	

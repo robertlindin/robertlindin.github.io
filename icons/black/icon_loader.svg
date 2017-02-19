@@ -1,0 +1,9 @@
+<svg width="120" height="120" viewBox="-60 -60 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="rectangle">
+    <circle id="dot-1" r="18" cx="18" cy="-12" fill="#000000" />
+    <circle id="dot-2" r="18" cx="18" cy="12" fill="#000000" />
+  </g>
+  <animate begin="0s" attributeName="r" from="0" to="0" dur="2s" fill="freeze" repeatCount="indefinite" xlink:href="#dot-1" calcMode="spline" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1" keyTimes="0; .5; 1" values="0; 18; 0" />
+  <animate begin="0s" attributeName="r" from="18" to="18" dur="2s" fill="freeze" repeatCount="indefinite" xlink:href="#dot-2" calcMode="spline" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1" keyTimes="0; .5; 1" values="18; 0; 18;" />
+  <animateTransform begin="0s" attributeName="transform" type="rotate" from="0" to="360" dur="2s" fill="freeze" repeatCount="indefinite" xlink:href="#rectangle" />
+</svg>

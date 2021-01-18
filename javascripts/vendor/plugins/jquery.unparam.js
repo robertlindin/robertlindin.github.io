@@ -4,7 +4,7 @@
 
  * Copyright 2012 - https://github.com/yeikos/jquery.unparam
  * GNU General Public License
- * http://www.gnu.org/licenses/gpl-3.0.txt
+ * https://www.gnu.org/licenses/gpl-3.0.txt
  */
 
 

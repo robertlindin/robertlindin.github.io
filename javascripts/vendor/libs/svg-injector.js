@@ -13,7 +13,7 @@
 
   // Environment
   var isLocal = window.location.protocol === 'file:';
-  var hasSvgSupport = document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#BasicStructure', '1.1');
+  var hasSvgSupport = document.implementation.hasFeature('https://www.w3.org/TR/SVG11/feature#BasicStructure', '1.1');
 
   function uniqueClasses(list) {
     list = list.split(' ');
